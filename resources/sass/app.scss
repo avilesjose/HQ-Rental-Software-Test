@@ -1,0 +1,11 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+$font-family-sans-serif: 'Roboto', sans-serif;
+
+// Imports
+@import '~bootstrap/scss/bootstrap';
+@import '~font-awesome/scss/font-awesome';
+@import '~datatables.net-bs4/css/dataTables.bootstrap4.css';
+
+// Design
+@import 'style';
